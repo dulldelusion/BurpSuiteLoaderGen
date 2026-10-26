@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "use": "sig",
+      "kid": "wave5e-test-1",
+      "x": "qqa-X92pLhlT875Pupa7exG46IxICuMIwIQ3knze3Rs"
+    }
+  ]
+}
